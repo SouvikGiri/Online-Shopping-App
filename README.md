@@ -1,4 +1,4 @@
-# UdemyShopApp
+# Online Shopping Application
 
 Online-Shopping App made by Flutter and Firebase
 
